@@ -1,0 +1,12 @@
+diff --git a/README.md b/README.md
+index 53d1989..1f13ce2 100644
+--- a/README.md
++++ b/README.md
+@@ -3,4 +3,7 @@
+ 
+ Scripts that check the health of my computers
+ 
++
+ This repo will be populated with lots of fancy checks. 
++
++let us explore git remote with gitgub.
